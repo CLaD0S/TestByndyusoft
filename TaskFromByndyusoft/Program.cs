@@ -1,8 +1,5 @@
 ﻿using System;
-/*
-Напишите функцию, на вход которой приходит массив чисел. 
-Функция возвращает сумму двух минимальных элементов массива.
-*/
+
 namespace TaskFromByndyusoft
 {
     internal class Program
